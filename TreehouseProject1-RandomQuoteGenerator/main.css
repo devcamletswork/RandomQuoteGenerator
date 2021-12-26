@@ -1,0 +1,19 @@
+.main {
+    
+    background-color: black;
+    padding: 20%;
+    margin: 0 auto;
+    max-width: 1024px;
+
+}
+.quoteArea {
+    
+    background-color: lightgrey;
+}
+button {
+
+    background-color: teal;
+}
+#quote p {
+
+    color: teal;
